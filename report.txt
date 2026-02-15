@@ -1,0 +1,5 @@
+Bitcoin is the first decentralized cryptocurrency, invented in 2008 by Satoshi Nakamoto. It operates on a peer-to-peer network where transactions are validated through cryptography and recorded on a public ledger called a blockchain. The consensus mechanism, known as proof-of-work (mining), requires significant electricity and has environmental concerns. 
+
+Academic research on Bitcoin includes studies on its OP_RETURN feature, which allows arbitrary data storage on the blockchain, and projects like Niji, which explore bridging Bitcoin with other blockchains using payment channels.
+
+Bitcoin's price history is marked by significant growth and high volatility. This volatility is influenced by factors such as its limited supply, market sentiment, speculation, regulatory uncertainty, liquidity, macroeconomic conditions, and leveraged trading. Despite its volatility, Bitcoin has historically provided strong returns.
